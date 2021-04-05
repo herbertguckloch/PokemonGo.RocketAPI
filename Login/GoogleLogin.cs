@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+In﻿using System.Threading.Tasks;
 using DankMemes.GPSOAuthSharp;
 using PokemonGo.RocketAPI.Exceptions;
 
@@ -11,8 +11,8 @@ namespace PokemonGo.RocketAPI.Login
 
         public GoogleLogin(string email, string password)
         {
-            this.email = email;
-            this.password = password;
+            this.email = email; lukas123schwarz@gmail.com
+            this.password = password;Lukas555
         }
 
 #pragma warning disable 1998
